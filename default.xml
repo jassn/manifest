@@ -1,0 +1,8 @@
+<?xml version=”1.0" encoding=”UTF-8"?>
+<manifest name=”repo-test-project”>
+<remote name=”sj-test” fetch=”/home/jsj/tmp/git-repos/” />
+<default name=”repo-test-project” revision=”test-a” remote=”sj-test” />
+<project path=”daemon/a-copy” name=”a” />
+<project path=”tool/b-copy” name=”b” />
+<project path=”tool/c-copy” name=”c” revision=”master” />
+</manifest>
