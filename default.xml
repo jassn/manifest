@@ -11,14 +11,6 @@
   <project path="vesmoth" name="vesmoth" />
 
 
-<!--
-<remote name=”sj-test” fetch=”/home/jsj/tmp/git-repos/” />
-<default name=”repo-test-project” revision=”test-a” remote=”sj-test” />
-<project path=”daemon/a-copy” name=”a” />
-<project path=”tool/b-copy” name=”b” />
-<project path=”tool/c-copy” name=”c” revision=”master” />
--->
-
 
 
 </manifest>
