@@ -8,7 +8,7 @@
            remote="axosp"
            sync-j="4" />
 
-  <project path="vesmoth" name="a" />
+  <project path="vesmoth" name="vesmoth" />
 
 
 <!--
